@@ -1,1 +1,2 @@
 I'm Content of master.txt.
+Add 2nd line to master.txt.
